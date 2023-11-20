@@ -1,8 +1,7 @@
-# React + Vite
+# Contact Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#2 React Practice Project
 
-Currently, two official plugins are available:
+Live at - https://contact-page-theta.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Contact Page](https://github.com/AaadityaG/Contact-Page/assets/114663382/63e78fd9-7831-457e-b766-5106f2383de7)
